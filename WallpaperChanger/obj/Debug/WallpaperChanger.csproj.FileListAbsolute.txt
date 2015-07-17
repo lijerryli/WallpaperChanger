@@ -1,0 +1,6 @@
+c:\users\jerry\documents\visual studio 2013\Projects\WallpaperChanger\WallpaperChanger\bin\Debug\WallpaperChanger.exe.config
+c:\users\jerry\documents\visual studio 2013\Projects\WallpaperChanger\WallpaperChanger\bin\Debug\WallpaperChanger.exe
+c:\users\jerry\documents\visual studio 2013\Projects\WallpaperChanger\WallpaperChanger\bin\Debug\WallpaperChanger.pdb
+c:\users\jerry\documents\visual studio 2013\Projects\WallpaperChanger\WallpaperChanger\obj\Debug\WallpaperChanger.csprojResolveAssemblyReference.cache
+c:\users\jerry\documents\visual studio 2013\Projects\WallpaperChanger\WallpaperChanger\obj\Debug\WallpaperChanger.exe
+c:\users\jerry\documents\visual studio 2013\Projects\WallpaperChanger\WallpaperChanger\obj\Debug\WallpaperChanger.pdb
